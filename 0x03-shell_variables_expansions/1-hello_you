@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "hello 1704devOps"
-
+echo "hello $1704devOps"
